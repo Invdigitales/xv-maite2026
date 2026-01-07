@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.4375448401706!2d-58.202844999999996!3d-34.7697588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a328b188623d6b%3A0xfb54eccc2e4f5dcb!2sRecepciones%20San%20Francisco!5e0!3m2!1ses-419!2sar!4v1745856681025!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.9500506753225!2d-58.506446624339006!3d-34.731653404374086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccef8ac7acf83%3A0x308e92157265a081!2sGolf%20Club%20Eventos!5e0!3m2!1ses!2sar!4v1767788327757!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
