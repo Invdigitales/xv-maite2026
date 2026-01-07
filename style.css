@@ -76,6 +76,47 @@
       
   }
 
+
+.rsvp-form {
+  max-width: 360px;
+  margin: 0 auto;
+  color: #514c4c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.rsvp-form label {
+  display: block;
+  margin-top: -10px;
+  font-size: 30px;
+}
+
+.rsvp-form input[type="text"] {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #715f5f;
+  padding: 8px 0;
+  color: #515151;
+}
+
+.rsvp-form input::placeholder {
+  color: #433f3f;
+}
+
+.rsvp-form button {
+  margin-top: 30px;
+  padding: 12px;
+  width: 100%;
+  border: 1px solid #6c5d5d;
+  background: #FBD9D9;
+  color: #545454;
+  cursor: pointer;
+}
+
+.rsvp-form button:hover {
+  background: #ffffff;
+  color: #d7c6be;
+}
 .calendario{
   width: 75%;
   margin-left: 13%;
@@ -236,7 +277,7 @@ margin-left: 5%;
   color:#646464;
   width: 70%;
  margin-left: 15%;
- margin-top: -20%;
+ margin-top: 10%;
 }
 .linea5{
   color:#646464;
@@ -360,11 +401,11 @@ margin-top: -25%;
     font-weight: 400;
 
 }
-.parrafo11{
+.parrafo11 {
   margin: 16%;
     text-align: center;
     color: #575757;
-    font-size: 28px;
+    font-size: 40px;
     font-family: 'Great Vibes', cursive;
     margin-top: -5%;
      font-weight: 400;
